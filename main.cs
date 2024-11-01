@@ -13,6 +13,11 @@ namespace HelloWorldApp {
             // statement 
             // printing Hello World! 
             Console.WriteLine("Hello World! This is me!"); 
+
+            for(int i=0, i < 10, i++)
+            {
+                Console.WriteLine("Value of i: {0}", i);
+            }    
             
             // To prevents the screen from 
             // running and closing quickly 
